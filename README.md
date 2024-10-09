@@ -1,6 +1,6 @@
 
 
-<p align="center">Sobre Mim <br><br> 💻 Estudante de Engenharia de Software apaixonado por resolver problemas complexos através da tecnologia. Tenho experiência em desenvolvimento backend utilizando linguagens como Java e Python.
+<p align="center">Sobre Mim <br><br> 💻 Estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência em desenvolvimento backend utilizando linguagens como Java e Python.
 <br> <br> 🛠️ Durante minha jornada acadêmica e projetos pessoais, aprimorei minhas habilidades técnicas e adquiri conhecimento prático em metodologias ágeis, integração contínua e melhoria contínua de software.
 <br> <br> 👥 Além disso, estou sempre buscando novas formas de aprender e contribuir para o meu desenvolvimento como desenvolvedor.
  </p>&nbsp;
