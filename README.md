@@ -1,8 +1,8 @@
 
 
-<p align="center">Sobre Mim <br><br> 💻 Estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência em desenvolvimento backend utilizando linguagens como Java e Python.
-<br> <br> 🛠️ Durante minha jornada acadêmica e projetos pessoais, aprimorei minhas habilidades técnicas e adquiri conhecimento prático em metodologias ágeis, integração contínua e melhoria contínua de software.
-<br> <br> 👥 Além disso, estou sempre buscando novas formas de aprender e contribuir para o meu desenvolvimento como desenvolvedor.
+<p align="center">Sobre Mim <br><br> 💻 Desenvolvedor full stack com experiência na criação de aplicações completas, utilizando Python ou Java no backend.
+<br> <br> 🛠️ Atuei na construção e integração de soluções web para projetos como o da Autoescola Picoli, alinhando design responsivo no frontend com funcionalidades robustas no backend, sempre seguindo as melhores práticas do mercado.
+<br> <br> 📚 Comprometido com a evolução contínua, possuo conhecimento em metodologias ágeis, integração contínua e otimização de processos de desenvolvimento, garantindo a entrega de soluções eficientes e de alta qualidade.
  </p>&nbsp;
 
 
@@ -16,11 +16,11 @@
 
 #### Main Stack:
 
-✨![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;✨
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+✨![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;✨
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
